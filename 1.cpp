@@ -33,6 +33,6 @@ int main ()
 {
   integer a(3),b(5),c;
   c = a+b;
-  cout << c.get() << endl;
+  cout << c.get() << endl; // 输出 8
   return 0;
 }
