@@ -34,5 +34,6 @@ int main ()
   integer a(3),b(5),c;
   c = a+b;
   cout << c.get() << endl;
+  cout << a.get() << endl; 
   return 0;
 }
